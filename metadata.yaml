@@ -1,6 +1,5 @@
 homepage: "https://sirio.chiron.ai",
-documentation: "https://github.com/tradetracker-com/tradetracker-gtm-tracking-template/blob/master/Guide_International.pdf",
 versions:
   # Latest version
-  - sha: 1259e2b6ad1a9fb3592d20c0cea9be7600c2b192
+  - sha: 82da0676e579625ea5eec122f53bd755c7ffe13c
     changeNotes: Added new field for Sirio.
